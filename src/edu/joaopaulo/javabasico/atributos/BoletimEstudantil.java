@@ -1,4 +1,4 @@
-package edu.joaopaulo.primeirasemana;
+package edu.joaopaulo.javabasico.atributos;
 
 public class BoletimEstudantil {
     public static void main(String[] args) {
