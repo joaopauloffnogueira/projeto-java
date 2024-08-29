@@ -1,5 +1,8 @@
 package edu.joaopaulo.javabasico.atributos;
 
+import org.w3c.dom.ls.LSOutput;
+import java.util.Date;
+
 public class TiposPrimitivos {
 
     // -- Tipos primitivos para números inteiros:
@@ -16,11 +19,17 @@ public class TiposPrimitivos {
 
     // -- Inserir textos
     // Obs: String não é um tipo primitivo, no java ele é uma classe.
-    String nome = "João Paulo";
+    String texto = "texto qualquer";
 
     // -- Tipo primitivo boolean:
     boolean verdadeiro = true;
     boolean falso = false;
 
-    //Teste
+    // Exemplo:
+    String nome = "João Paulo";
+    int idade = 28;
+    double peso = 68.5;
+    char sexo = 'M';
+    boolean doadorOrgao = false;
+    Date dataNascimento = new Date();
 }
