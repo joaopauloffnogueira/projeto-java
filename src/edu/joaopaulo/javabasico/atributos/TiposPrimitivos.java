@@ -21,4 +21,6 @@ public class TiposPrimitivos {
     // -- Tipo primitivo boolean:
     boolean verdadeiro = true;
     boolean falso = false;
+
+    //Teste
 }
