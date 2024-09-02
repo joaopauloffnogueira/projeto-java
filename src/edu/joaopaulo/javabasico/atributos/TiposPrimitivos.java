@@ -32,5 +32,5 @@ public class TiposPrimitivos {
     char sexo = 'M';
     boolean doadorOrgao = false;
     Date dataNascimento = new Date();
-    //teste 1 2 3
+
 }
