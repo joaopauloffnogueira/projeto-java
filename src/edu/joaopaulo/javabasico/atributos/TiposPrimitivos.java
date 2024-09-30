@@ -2,7 +2,6 @@ package edu.joaopaulo.javabasico.atributos;
 
 
 public class TiposPrimitivos {
-
     byte numerosByte = 127;
     short numerosCurto = 32_767;
     int numerosInteiros = 2_147_483_647;
@@ -13,7 +12,6 @@ public class TiposPrimitivos {
     char letra = 'A';
     boolean verdadeiro = true;
     boolean falso = false;
-
 
     // --------------------------------------------------
     // Exemplo prático:
@@ -30,5 +28,4 @@ public class TiposPrimitivos {
         System.out.println("Sexo: " + sexo);
         System.out.println("Doador de Samgue: " + doadorSangue);
     }
-
 }
