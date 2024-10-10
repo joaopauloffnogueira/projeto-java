@@ -1,4 +1,4 @@
-package edu.joaopaulo.javabasico.desafio.contabancaria;
+package edu.joaopaulo.javabasico.desafios.contabancaria;
 
 import java.util.Scanner;
 
